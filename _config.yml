@@ -98,6 +98,18 @@ roles:
 
 #Education is required
 education:
+ - level: TOEIC
+   date: 2014
+   school: ETS Global
+ - level: Spring Certified Professional
+   date: 2012
+   school: VMWare
+ - level: Sun Certified Java Programmer
+   date: 2007
+   school: Sun MicroSystems
+ - level: TOEFL
+   date: 2004
+   school: EMI
  - level: Software Engineer's degree
    date: 2004
    school: EMI
