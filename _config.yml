@@ -53,7 +53,7 @@ roles:
  - title: Lead Developer Java JEE
    start: 2009
    end: 2011
-   employer: Manpower
+   employer: Societe Generale
    description: Development of new features, bug fixing and support level 3 for the BACARDI application used by traders and financial analysts for pricing, risk analysis and VaR (Value At Risk) on shares and derivatives scope (GED Global Equities Derivatives).
 #Education is required
 education:
