@@ -49,14 +49,13 @@ roles:
    start: 2011
    end: 2012
    employer: Manpower
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
-
+   description:
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
+ - level: Software Engineer's degree
+   date: 2004
    subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+   school: EMI
 
 #This section is optional (as is the image link below)
 coursera:
@@ -73,23 +72,13 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - riadh-mnasri/micro-service-sample
+ - riadh-mnasri/menu-generator
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://stackoverflow.com/users/6244535/riadh-mnasri
+   flairimageurl: http://stackoverflow.com/users/flair/6244535.png
 
 #Mobile apps section is optional
 apps:
