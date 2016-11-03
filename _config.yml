@@ -75,26 +75,27 @@ roles:
    end: 2007
    employer: FNAC
    description: Design and development of a web application useful for managing variable salary part for FNAC employees
-- title: Java JEE Software Engineer
+ - title: Java JEE Software Engineer
    start: 2006
    end: 2007
    employer: Caisse Epargne
    description: Development of new features for an application managing insurance contracts, Refactoring and design improvement of existing software components
-- title: Java JEE Software Engineer
+ - title: Java JEE Software Engineer
    start: 2005
    end: 2006
    employer: Union Bank of Switzerland
-   description: Design and development of Java JEE platform serving for performance monitoring, diagnosis and analysis of a the new online banking web application
-- title: Java JEE Software Engineer
+   description: Design and development of Java JEE platform serving for performance monitoring, diagnosis and analysis of a
+ - title: Java JEE Software Engineer
    start: 2005
    end: 2005
    employer: Credit Swisse
    description: Design and development of a log files parser and key performance indicators analysis Java JEE application
-- title: Java JEE Software Engineer
+ - title: Java JEE Software Engineer
    start: 2004
    end: 2004
    employer: Business & Decision
    description: Web development of an application managing channel subscribers for Canal +
+
 #Education is required
 education:
  - level: Software Engineer's degree
