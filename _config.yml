@@ -24,12 +24,17 @@ primarylinks:
 skills:
  - Java
  - Javascript
+ - Typescript
  - Angular
  - Spring
  - JPA
  - Hibernate
+ - Junit
+ - Cucumber
  - Maven
+ - Gradle
  - Jenkins
+ - Git
  - Docker
  - REST
  - Micro-services
@@ -40,12 +45,17 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
- - title: Java JEE Architect
+ - title: Technical Expert / Lead Developer
+   start: 2107
+   end: OnGoing
+   employer: WeHighTech
+   description: Design and developement of Java/Javascript Web Applications
+ - title: Java JEE Architect / Lead Developer
    start: 2012
-   end: Ongoing
+   end: 2016
    employer: BforBank
    description: Lead the architecture, the design, and the development
- - title: Java JEE Architect
+ - title: Java JEE Architect / Lead Developer
    start: 2011
    end: 2012
    employer: Manpower
@@ -88,7 +98,7 @@ roles:
  - title: Java JEE Software Engineer
    start: 2005
    end: 2005
-   employer: Credit Swisse
+   employer: Credit Swiss
    description: Design and development of a log files parser and key performance indicators analysis Java JEE application
  - title: Java JEE Software Engineer
    start: 2004
@@ -142,8 +152,8 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have a deep knowledge of Spring, JPA, Hibernate.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
+   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework. I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
